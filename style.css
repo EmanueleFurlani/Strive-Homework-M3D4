@@ -1,0 +1,14 @@
+#classRow {
+  background-color: lightblue;
+  height: 60vh;
+  overflow-y: scroll;
+}
+#classRow2 {
+  background-color: rgb(218, 218, 147);
+  height: 25vh;
+  overflow-y: scroll;
+}
+
+.colorBg {
+  background-color: lightgreen;
+}
